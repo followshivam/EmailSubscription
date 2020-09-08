@@ -1,5 +1,7 @@
-# EmailSubscription
-Email Subscription of Blogs from Shivam Tyagi based on 
-## Nodejs.
+# EmailSubscription <br>
+Email Subscription of Blogs from Shivam Tyagi based on NODE js
 
-### WEBAPP LINK: https://stark-mountain-95848.herokuapp.com/
+##Database <br>
+MailChimp free version is being used to colled Suscribers details.
+
+### WEBAPP LINK: <br> https://stark-mountain-95848.herokuapp.com/
